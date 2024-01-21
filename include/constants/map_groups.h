@@ -198,6 +198,7 @@
 #define MAP_ONE_ISLAND_KINDLE_ROAD_EMBER_SPA          (57 | (2 << 8))
 #define MAP_BIRTH_ISLAND_HARBOR                       (58 | (2 << 8))
 #define MAP_NAVEL_ROCK_HARBOR                         (59 | (2 << 8))
+#define MAP_ROCKET_HANGAR_OUTSIDE                     (60 | (2 << 8))
 
 // gMapGroup_TownsAndRoutes
 #define MAP_PALLET_TOWN                          (0 | (3 << 8))
@@ -516,6 +517,14 @@
 // gMapGroup_IndoorSevenIslandRoute
 #define MAP_SEVEN_ISLAND_SEVAULT_CANYON_HOUSE (0 | (42 << 8))
 
-#define MAP_GROUPS_COUNT 43
+// gMapGroup_IndoorRocketHangar
+#define MAP_ROCKET_HANGAR_LOADING_ZONE (0 | (43 << 8))
+#define MAP_ROCKET_HANGAR_DOCKS        (1 | (43 << 8))
+#define MAP_ROCKET_HANGAR_HALLWAY      (2 | (43 << 8))
+#define MAP_ROCKET_HANGAR_DORMS1       (3 | (43 << 8))
+#define MAP_ROCKET_HANGAR_OFFICE       (4 | (43 << 8))
+#define MAP_ROCKET_HANGAR_STORAGE_ROOM (5 | (43 << 8))
+
+#define MAP_GROUPS_COUNT 44
 
 #endif // GUARD_CONSTANTS_MAP_GROUPS_H

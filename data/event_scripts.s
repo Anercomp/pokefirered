@@ -1360,3 +1360,24 @@ Text_TestMsg::
 	.include "data/text/save.inc"
 	.include "data/text/new_game_intro.inc"
 	.include "data/text/pokedude.inc"
+
+	.include "data/maps/RocketHangar_Outside/scripts.inc"
+	.include "data/maps/RocketHangar_Outside/text.inc"
+
+	.include "data/maps/RocketHangar_LoadingZone/scripts.inc"
+	.include "data/maps/RocketHangar_LoadingZone/text.inc"
+
+	.include "data/maps/RocketHangar_Docks/scripts.inc"
+	.include "data/maps/RocketHangar_Docks/text.inc"
+
+	.include "data/maps/RocketHangar_Hallway/scripts.inc"
+	.include "data/maps/RocketHangar_Hallway/text.inc"
+
+	.include "data/maps/RocketHangar_Dorms1/scripts.inc"
+	.include "data/maps/RocketHangar_Dorms1/text.inc"
+
+	.include "data/maps/RocketHangar_Office/scripts.inc"
+	.include "data/maps/RocketHangar_Office/text.inc"
+
+	.include "data/maps/RocketHangar_StorageRoom/scripts.inc"
+	.include "data/maps/RocketHangar_StorageRoom/text.inc"
